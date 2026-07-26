@@ -1,0 +1,23 @@
+# Package manifest
+
+- `README.md`
+- `docs/ATTRIBUTION.md`
+- `docs/PORTFOLIO_SUMMARY.md`
+- `docs/SECURITY_REDACTION_REPORT.md`
+- `docs/UPLOAD_GUIDE.md`
+- `linkedin/LINKEDIN_POST.md`
+- `linkedin/LINKEDIN_PROJECT_ENTRY.md`
+- `media/Lab0_Qiskit_Patterns.png`
+- `media/Lab1_Circuits_for_Real_Hardware.png`
+- `media/Lab2_Noise_Backends_Benchmarking.png`
+- `media/Lab3_Error_Mitigation.png`
+- `media/Lab4b_QAOA_Partition_Problem.png`
+- `media/Lab4c_Sample_Based_Quantum_Diagonalization.png`
+- `media/QGSS2026_LinkedIn_Cover.png`
+- `notebooks/Lab0_Qiskit_Patterns.ipynb`
+- `notebooks/Lab1_Circuits_for_Real_Hardware.ipynb`
+- `notebooks/Lab2_Noise_Backends_Benchmarking.ipynb`
+- `notebooks/Lab3_Error_Mitigation.ipynb`
+- `notebooks/Lab4a_Quantum_Advantage.ipynb`
+- `notebooks/Lab4b_QAOA_Partition_Problem.ipynb`
+- `notebooks/Lab4c_Sample_Based_Quantum_Diagonalization.ipynb`
